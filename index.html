@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="d3Angular">
+
+<head>
+    <meta charset="UTF-8">
+    <title>D3 Angular Chart</title>
+    <link rel="stylesheet" href="./css/main.css" />
+</head>
+
+<body>
+    <article ng-controller="MainController as main">
+        <div class="exercise">
+            <div class="control">
+                <div class="input-group" id="search">
+                    <input type="text" id="searcrh-term" placeholder="Search - e.g. 'Washington'" ng-model="main.search" />
+                </div>
+            </div>
+            <!-- <div class="chart "></div>-->
+            <svg class="chart"></svg>
+        </div>
+    </article>
+
+    <script src="./node_modules/jquery/dist/jquery.js"></script>
+    <script src="./node_modules/angular/angular.js"></script>
+    <script src="./node_modules/d3/build/d3.js"></script>
+    <script src="./js/app.js"></script>
+</body>
+
+</html>

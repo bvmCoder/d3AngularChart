@@ -1,0 +1,32 @@
+body {
+  background: #393939;
+  font-family: helvetica;
+}
+
+input[type="text"] {
+    width: 200px;
+    border : 0;
+    padding: 10px;
+    font-size: 16px;
+}
+.exercise {
+    padding: 10px;
+}
+.control {
+    padding-bottom: 10px;
+}
+.chart {
+    background: #EEEEEE;
+    width: 700px;
+    height: 300px;
+    margin-top: 20px;
+}
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}

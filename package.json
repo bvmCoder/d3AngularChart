@@ -1,0 +1,25 @@
+{
+  "name": "ds-angular-exercise",
+  "version": "1.0.0",
+  "description": "An Exercise to Demonstrate Bar Chart using AngularJS and D3.JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "angularJS",
+    "D3.JS",
+    "jQuery"
+  ],
+  "author": "Simranjit Singh",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "d3": "^4.2.2",
+    "jquery": "^3.1.0"
+  }
+}
