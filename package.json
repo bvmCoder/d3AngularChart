@@ -15,7 +15,7 @@
     "D3.JS",
     "jQuery"
   ],
-  "author": "Dixit, Patel",
+  "author": "Dixit patel <talkwithdixit@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "angular": "^1.5.8",
