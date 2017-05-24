@@ -15,7 +15,7 @@
     "D3.JS",
     "jQuery"
   ],
-  "author": "Simranjit Singh",
+  "author": "Dixit, Patel",
   "license": "MIT",
   "dependencies": {
     "angular": "^1.5.8",
